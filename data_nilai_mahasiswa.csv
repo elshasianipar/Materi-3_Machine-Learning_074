@@ -1,0 +1,41 @@
+id,nilai_tugas,nilai_ujian,kehadiran,status
+M001,80,85,95,Lulus
+M002,70,75,90,Lulus
+M003,90,92,98,Lulus
+M004,60,58,75,Belum Lulus
+M005,55,62,80,Lulus
+M006,88,79,92,Lulus
+M007,45,50,60,Belum Lulus
+M008,76,81,88,Lulus
+M009,65,68,82,Lulus
+M010,92,88,96,Lulus
+M011,50,45,65,Belum Lulus
+M012,72,70,85,Lulus
+M013,84,90,94,Lulus
+M014,58,55,70,Belum Lulus
+M015,67,72,88,Lulus
+M016,95,96,99,Lulus
+M017,40,48,55,Belum Lulus
+M018,78,77,91,Lulus
+M019,62,60,80,Lulus
+M020,86,83,93,Lulus
+M021,73,69,86,Lulus
+M022,81,78,89,Lulus
+M023,59,64,78,Lulus
+M024,91,90,97,Lulus
+M025,68,66,83,Lulus
+M026,48,52,60,Belum Lulus
+M027,77,84,90,Lulus
+M028,83,80,92,Lulus
+M029,64,63,79,Lulus
+M030,89,94,96,Lulus
+M031,71,74,84,Lulus
+M032,57,59,73,Belum Lulus
+M033,94,91,98,Lulus
+M034,66,70,80,Lulus
+M035,52,47,58,Belum Lulus
+M036,79,82,91,Lulus
+M037,61,57,77,Lulus
+M038,87,85,94,Lulus
+M039,69,73,86,Lulus
+M040,43,49,62,Belum Lulus
